@@ -1,0 +1,26 @@
+.ss {
+    text-transform: capitalize;
+}
+
+#h1 {
+    color: #887c50;
+    font-family: "Joan";
+}
+
+#subtitle {
+    color: #d4cc84;
+    font-family: "Raleway";
+}
+
+#title {
+    color: #7f8361;
+    font-family: "Nunito Sans";
+}
+
+#sent {
+    /* display: block; */
+    /* border-left: 2px dashed #000; */
+    height: 100%;
+    background-color: #f6e235;
+}
+
